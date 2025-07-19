@@ -4,7 +4,7 @@
 
 ## Features
 - 🔒 Secure WebView integration
-- 🎯 Offerwall-based rewards (AdGem support)
+- 🎯 Offerwall-based rewards
 - 🪙 Crypto earning by completing simple tasks
 - 📱 Lightweight, fast, and user-friendly UI
 
